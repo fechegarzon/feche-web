@@ -11,6 +11,8 @@
 - DORA: 2,000 tenants in 15 cities, USD 8.4M annualized guaranteed rent, 0.8% default rate, CAC from USD 130 to USD 40, acquired (company result)
 - Forbes Colombia Top 100 Startups to Watch (2024); 500 Global Latin America (2023); co-founder of StartupAndes; BBA, Universidad de los Andes
 
+- Mortgage plugin approved and published in the ChatGPT plugin directory (October 2026)
+
 ## Services
 - AI diagnostic (2 weeks): process map, three prioritized use cases with estimated return, 90-day plan
 - First agent in production (6–8 weeks): WhatsApp, voice or document agents with evals, permissions and human approval
