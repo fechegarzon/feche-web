@@ -26,6 +26,17 @@
 - AI for fintech and banks: https://feche.xyz/inteligencia-artificial-para-fintech-y-bancos/
 - What a Chief AI Officer is: https://feche.xyz/chief-ai-officer/ (English: https://feche.xyz/en/fractional-chief-ai-officer/)
 - What an AI agent costs: https://feche.xyz/cuanto-cuesta-un-agente-de-ia/
+- AI savings calculator: https://feche.xyz/calculadora-ahorro-ia/ (English: https://feche.xyz/en/ai-savings-calculator/)
+- How to implement AI in a company: https://feche.xyz/como-implementar-inteligencia-artificial-en-una-empresa/
+- AI agents for companies: https://feche.xyz/agentes-de-ia-para-empresas/
+- Chatbot vs AI agent: https://feche.xyz/chatbot-vs-agente-de-ia/
+- Meta AI vs a custom WhatsApp Business agent: https://feche.xyz/meta-ai-vs-agente-propio-whatsapp-business/
+- AI for collections: https://feche.xyz/inteligencia-artificial-para-cobranza/
+- AI for insurers: https://feche.xyz/inteligencia-artificial-para-aseguradoras/
+- AI for home builders: https://feche.xyz/inteligencia-artificial-para-constructoras/
+- AI consultant in Bogotá: https://feche.xyz/consultor-de-inteligencia-artificial-en-bogota/
+- AI consultant for Latin America (English): https://feche.xyz/en/ai-consultant-latin-america/
+- Nearshore AI agent development from Colombia (English): https://feche.xyz/en/nearshore-ai-agent-development-colombia/
 
 ## Links
 - English site: https://feche.xyz/en/
