@@ -17,7 +17,16 @@
 - Fractional Chief AI Officer (monthly): AI governance, roadmap, hiring, P&L impact dashboard
 - Talks and workshops for boards and leadership teams
 
+## Guides (Spanish unless noted)
+- AI consulting for companies: https://feche.xyz/consultoria-inteligencia-artificial/ (English: https://feche.xyz/en/ai-consulting/)
+- WhatsApp AI agents: https://feche.xyz/agentes-de-ia-para-whatsapp/
+- AI for real estate: https://feche.xyz/inteligencia-artificial-para-inmobiliarias/
+- AI for fintech and banks: https://feche.xyz/inteligencia-artificial-para-fintech-y-bancos/
+- What a Chief AI Officer is: https://feche.xyz/chief-ai-officer/ (English: https://feche.xyz/en/fractional-chief-ai-officer/)
+- What an AI agent costs: https://feche.xyz/cuanto-cuesta-un-agente-de-ia/
+
 ## Links
+- English site: https://feche.xyz/en/
 - Home: https://feche.xyz/
 - Press kit (bios, quotes, photos): https://feche.xyz/prensa
 - Open-source code: https://github.com/fechegarzon

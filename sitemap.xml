@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://feche.xyz/</loc><lastmod>2026-10-14</lastmod><priority>1.0</priority></url>
-  <url><loc>https://feche.xyz/prensa</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://feche.xyz/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/en/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/prensa/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/prensa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/press/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/prensa/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/en/press/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/prensa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/press/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/prensa/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/consultoria-inteligencia-artificial/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/consultoria-inteligencia-artificial/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/ai-consulting/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/consultoria-inteligencia-artificial/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/en/ai-consulting/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/consultoria-inteligencia-artificial/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/ai-consulting/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/consultoria-inteligencia-artificial/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/agentes-de-ia-para-whatsapp/</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://feche.xyz/inteligencia-artificial-para-inmobiliarias/</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://feche.xyz/inteligencia-artificial-para-fintech-y-bancos/</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://feche.xyz/chief-ai-officer/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/chief-ai-officer/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/fractional-chief-ai-officer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/chief-ai-officer/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/en/fractional-chief-ai-officer/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/chief-ai-officer/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/fractional-chief-ai-officer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/chief-ai-officer/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/cuanto-cuesta-un-agente-de-ia/</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
 </urlset>
