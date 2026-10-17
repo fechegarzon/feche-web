@@ -7,7 +7,9 @@
 - An operations agent absorbed the routine layer of a coordinator role: about USD 4.3K/month (USD 51K/year), at a run cost of USD 274–400/month (measured)
 - Broker copilot shipped in 18 days; prompt caching cut cost per conversation 10x, about USD 0.41 per broker (measured)
 - WhatsApp CRM with a voice agent: 181 leads in week one, 78% with an identified source; used by three brands (measured)
-- Daily Google impressions grew 8–9x in three weeks, indexed pages 7/34 → 30/41 (measured)
+- Google visibility grew 14x in four weeks (126 → 1,737 daily impressions; queries on page 1 from 34 to 772; pages shown by Google from 20 to 80) and the brand appears in 14 of 20 AI-assistant answers for its category (measured, October 2026)
+- 317 product releases in 16 days working with coding agents (2.4x the previous month)
+- WhatsApp CRM: 63% of leads answered in under 60 seconds; organic leads more than doubled month over month (measured)
 - DORA: 2,000 tenants in 15 cities, USD 8.4M annualized guaranteed rent, 0.8% default rate, CAC from USD 130 to USD 40, acquired (company result)
 - Forbes Colombia Top 100 Startups to Watch (2024); 500 Global Latin America (2023); co-founder of StartupAndes; BBA, Universidad de los Andes
 
