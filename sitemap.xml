@@ -43,6 +43,48 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/calculadora-ahorro-ia/"/>
   </url>
   <url>
+    <loc>https://feche.xyz/test-preparacion-ia/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/test-preparacion-ia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/ai-readiness-test/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/test-preparacion-ia/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/en/ai-readiness-test/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/test-preparacion-ia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/ai-readiness-test/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/test-preparacion-ia/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/guias/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/guias/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/guias/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/en/guides/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/guias/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/guias/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/sobre-mi/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/sobre-mi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/sobre-mi/"/>
+  </url>
+  <url>
+    <loc>https://feche.xyz/en/about/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/sobre-mi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://feche.xyz/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://feche.xyz/sobre-mi/"/>
+  </url>
+  <url>
     <loc>https://feche.xyz/consultoria-inteligencia-artificial/</loc>
     <lastmod>2026-10-17</lastmod>
     <xhtml:link rel="alternate" hreflang="es" href="https://feche.xyz/consultoria-inteligencia-artificial/"/>
